@@ -1,2 +1,2 @@
 # MyRepo33
-This is the repo for Practice
+This Repo is for practice
